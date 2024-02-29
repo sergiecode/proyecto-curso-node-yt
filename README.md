@@ -53,6 +53,9 @@ Tal cual les prometí, después de un increíble 2023 a full Frontend, este año
 ## Me pueden encontrar en: 
 
 [Canal de Youtube | Sergie Code](https://www.youtube.com/@SergieCode)
+
 [Github | Sergie Code](https://github.com/sergiecode)
+
 [LinkedIn | Sergie Code](https://www.linkedin.com/in/sergiecode/)
+
 [Instagram | Sergie Code](https://www.instagram.com/sergiecode)
